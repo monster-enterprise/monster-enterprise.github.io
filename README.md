@@ -1,2 +1,2 @@
 # monster-enterprise.github.io
-homepage
+Homepage for Monster Enterprise
